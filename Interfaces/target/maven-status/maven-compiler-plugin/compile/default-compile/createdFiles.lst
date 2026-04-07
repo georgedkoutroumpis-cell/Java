@@ -1,0 +1,6 @@
+com\mycompany\interfaces\Predator.class
+com\mycompany\interfaces\Hawk.class
+com\mycompany\interfaces\Interfaces.class
+com\mycompany\interfaces\Rabbit.class
+com\mycompany\interfaces\Fish.class
+com\mycompany\interfaces\Prey.class

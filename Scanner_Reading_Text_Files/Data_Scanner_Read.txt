@@ -1,0 +1,4 @@
+This is text document for testing reading from a text file using Scanner.
+This is a line.
+This is another line.
+And this the last line.

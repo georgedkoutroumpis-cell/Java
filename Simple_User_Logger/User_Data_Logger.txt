@@ -1,0 +1,6 @@
+2026-04-07T17:10:04.918743300 - George Koutroumpis logged in
+2026-04-07T17:10:10.650954600 - George Koutroumpis deposited 15000$
+2026-04-07T17:10:13.022268100 - George Koutroumpis logged out
+2026-04-07T17:10:57.884443900 - Maria Iasonidou logged in
+2026-04-07T17:11:02.403748 - Maria Iasonidou deposited 20000$
+2026-04-07T17:11:05.492113200 - Maria Iasonidou logged out
