@@ -1,0 +1,4 @@
+K-101,Keyboard HyperX
+M-101,Mouse HyperX
+M-102,Mouse Logitech Wireless
+S-101,Samsung OLED 22'' 60Hz
