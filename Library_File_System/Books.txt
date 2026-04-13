@@ -1,0 +1,4 @@
+B-101,Introduction to C,G. Aggrawall
+B-102,Introduction to Matlab,Joe Doe
+B-103,Introduction to Java,P. Kitsos
+B-104,Introduction to Automation,P. Carter
