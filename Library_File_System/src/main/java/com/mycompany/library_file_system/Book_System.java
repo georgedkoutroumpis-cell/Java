@@ -76,6 +76,7 @@ public class Book_System {
     }
     
     void loadBooksFormFile(){
+        books.clear();
         try{
             FileReader fr = new FileReader("Books.txt");
             BufferedReader br = new BufferedReader(fr);
@@ -101,7 +102,7 @@ public class Book_System {
                 return book.getBookTitle();
             }
         }
-        return "No book title found.";
+        return null;
     }
     
     String retrieveBookAuthor(String book_id){
@@ -110,6 +111,6 @@ public class Book_System {
                 return book.getBookAuthor();
             }
         }
-        return "No book author found";
+        return null;
     }
 }
